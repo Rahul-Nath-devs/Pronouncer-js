@@ -1,0 +1,49 @@
+
+
+/** common cs */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* *common css ends */
+
+
+/* main css */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+
+
+h2{
+    margin: 20px  0;
+    font-size: 25px;
+     color: darkred;
+}
+
+.mainBox{
+    width: 460px;
+   
+}
+
+#textField{
+    border: 2px solid darkblue;
+}
+
+.Btn{
+    width: 130px;
+    height: 60px;
+    font-size: 20px;
+    color:black;
+    font-weight: 600;
+    background-color: goldenrod;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* main  css ends */
